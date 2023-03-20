@@ -3,7 +3,8 @@
 Tenzies is a web-based dice game where the player rolls 10 dice until all of them show the same value. Each die can be held by clicking on it, causing it to be frozen at its current value for the next roll. The game includes a timer and celebrates the player's victory with confetti.
 
 [Tenzies START](./public/demo/demo-01.png)
-[Tenzies FINISH](./public/demo/demo-02.png)
+
+![Tenzies FINISH](./public/demo/demo-02.png)
 
 ## Game Play
 
