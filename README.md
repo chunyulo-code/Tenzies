@@ -22,7 +22,7 @@ The game was developed using the following technologies and libraries:
 
 ## Running the App
 
-To play the game, follow this [Tenzies](https://tenzies-hathon.netlify.app/).
+To play the game, follow this [Tenzies](https://hathon-tenzies.netlify.app/).
 
 ## Contributing
 
